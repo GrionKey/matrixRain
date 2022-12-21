@@ -1,0 +1,8 @@
+C:\Users\ИСП-42\Desktop\Новая папка\MatrxRain\MatrxRain\bin\Debug\MatrxRain.exe.config
+C:\Users\ИСП-42\Desktop\Новая папка\MatrxRain\MatrxRain\bin\Debug\MatrxRain.exe
+C:\Users\ИСП-42\Desktop\Новая папка\MatrxRain\MatrxRain\bin\Debug\MatrxRain.pdb
+C:\Users\ИСП-42\Desktop\Новая папка\MatrxRain\MatrxRain\obj\Debug\MatrxRain.csproj.AssemblyReference.cache
+C:\Users\ИСП-42\Desktop\Новая папка\MatrxRain\MatrxRain\obj\Debug\MatrxRain.csproj.SuggestedBindingRedirects.cache
+C:\Users\ИСП-42\Desktop\Новая папка\MatrxRain\MatrxRain\obj\Debug\MatrxRain.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-42\Desktop\Новая папка\MatrxRain\MatrxRain\obj\Debug\MatrxRain.exe
+C:\Users\ИСП-42\Desktop\Новая папка\MatrxRain\MatrxRain\obj\Debug\MatrxRain.pdb
